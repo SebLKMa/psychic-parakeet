@@ -1,5 +1,5 @@
 # psychic-parakeet
-A basid FastMCP client and server.
+A basic FastMCP client and server.
 
 ## Server
 ```sh
